@@ -179,15 +179,16 @@ Expected Graduation: **2026**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nimer-Asaad&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nimer-Asaad&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimer-Asaad&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nimer-Asaad&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Nimer-Asaad&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nimer-Asaad&theme=tokyonight"/>
 
 </div>
+
 ---
 
 ## 📫 Connect With Me
